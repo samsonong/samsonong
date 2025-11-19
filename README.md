@@ -4,13 +4,25 @@ Meanwhile, find me at https://www.linkedin.com/in/samsonong/
 
 ## 🏗️ 🤏 🚢 ⏩
 
-I am a firm believer of building small and shipping fast
+I am a firm believer of building small and shipping fast.
 
-### Business: Earlier Market Feedback, Lesser Code Wastage, Higher Product Agility
+### Business
 
-### Managers: More Reliable Forecasting, Better Team Alignment, Higher Team Velocity
+* 💼 Earlier market feedback
+* 🧹 Lesser code wastage
+* ⚡️ Higher product agility
 
-### Engineers: Less Code Conflict, Clearer and Smaller Scopes, Higher Sense of Purpose
+### Managers
+
+* 📊 More reliable forecasting
+* 🤝 Better team alignment
+* 🚀 Higher team velocity
+
+### Engineers
+
+* 🔀 Less code conflict
+* 🧩 Clearer and smaller scopes
+* 🎯 Higher sense of purpose
 
 ## Things
 
